@@ -18,7 +18,7 @@
     <repository>
         <id>dev</id>
         <name>Local repository</name>
-        <url>file:///home/manoj</url>
+        <url>file:///tmp</url>
     </repository>
 </distributionManagement>
     <repositories>
